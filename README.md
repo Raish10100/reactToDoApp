@@ -26,7 +26,7 @@ This ToDo App is a simple project built using React. While functionality is the 
 1. Clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/Raish10100/reactToDoApp.git
 ```
 
 2. Navigate to the project directory:
