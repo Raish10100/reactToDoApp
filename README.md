@@ -64,7 +64,7 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 ## Credits
 
-This project was created by [Raish Vadaviya]. If you have any questions or feedback, feel free to contact me at my email address: [raishgma101001@gmail.com](mailto:raishgma101001@gmail.com)
+This project was created by [Raish Vadaviya](https://linktr.ee/Raish101001). If you have any questions or feedback, feel free to contact me at my email address: [raishgma101001@gmail.com](mailto:raishgma101001@gmail.com)
 
 
 ## Contact
